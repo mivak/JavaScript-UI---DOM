@@ -1,0 +1,5 @@
+C:\Users\Misho\Desktop\DOM\GetValueOfInputTypeColor\bin\GetValueOfInputTypeColor.dll.config
+C:\Users\Misho\Desktop\DOM\GetValueOfInputTypeColor\bin\GetValueOfInputTypeColor.dll
+C:\Users\Misho\Desktop\DOM\GetValueOfInputTypeColor\bin\GetValueOfInputTypeColor.pdb
+C:\Users\Misho\Desktop\DOM\GetValueOfInputTypeColor\obj\Debug\GetValueOfInputTypeColor.dll
+C:\Users\Misho\Desktop\DOM\GetValueOfInputTypeColor\obj\Debug\GetValueOfInputTypeColor.pdb

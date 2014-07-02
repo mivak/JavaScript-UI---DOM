@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\bin\HandlebarsTable.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\bin\HandlebarsTable.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\bin\HandlebarsTable.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\obj\Debug\HandlebarsTable.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\obj\Debug\HandlebarsTable.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\HandlebarsTable\obj\Debug\HandlebarsTable.pdb

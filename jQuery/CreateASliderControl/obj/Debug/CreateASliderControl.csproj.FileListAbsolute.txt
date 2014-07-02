@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\bin\CreateASliderControl.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\bin\CreateASliderControl.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\bin\CreateASliderControl.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\obj\Debug\CreateASliderControl.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\obj\Debug\CreateASliderControl.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\CreateASliderControl\obj\Debug\CreateASliderControl.pdb

@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\bin\AnimatedStatistics.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\bin\AnimatedStatistics.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\bin\AnimatedStatistics.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\obj\Debug\AnimatedStatistics.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\obj\Debug\AnimatedStatistics.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas Animations\AnimatedStatistics\AnimatedStatistics\obj\Debug\AnimatedStatistics.pdb

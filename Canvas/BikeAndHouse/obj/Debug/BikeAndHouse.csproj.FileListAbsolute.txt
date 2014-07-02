@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\bin\BikeAndHouse.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\bin\BikeAndHouse.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\bin\BikeAndHouse.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\obj\Debug\BikeAndHouse.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\obj\Debug\BikeAndHouse.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\BikeAndHouse\obj\Debug\BikeAndHouse.pdb

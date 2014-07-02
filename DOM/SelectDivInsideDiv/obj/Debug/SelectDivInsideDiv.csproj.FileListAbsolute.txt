@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\bin\SelectDivInsideDiv.dll.config
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\bin\SelectDivInsideDiv.dll
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\bin\SelectDivInsideDiv.pdb
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\obj\Debug\SelectDivInsideDiv.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\obj\Debug\SelectDivInsideDiv.dll
+C:\Users\Misho\Desktop\DOM\SelectDivInsideDiv\obj\Debug\SelectDivInsideDiv.pdb

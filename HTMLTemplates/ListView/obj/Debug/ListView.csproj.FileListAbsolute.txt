@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\ListView\bin\ListView.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\ListView\bin\ListView.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\ListView\bin\ListView.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\ListView\obj\Debug\ListView.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\ListView\obj\Debug\ListView.pdb

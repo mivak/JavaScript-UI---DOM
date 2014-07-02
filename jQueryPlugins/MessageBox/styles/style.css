@@ -1,0 +1,21 @@
+﻿#message-box {
+    border: 3px solid purple;
+    width: 750px;
+    height: 350px;
+    margin: 50px auto;
+}
+
+#message-box-heading {
+    text-align:center;
+    font-family: 'Comic Sans MS';
+    font-size: 60px;
+}
+
+.message-box-btns {
+    text-align:center;
+    margin-left:100px;
+    margin-top:50px;
+    border-radius:10px;
+    padding:5px;
+    background:skyblue;
+}

@@ -1,0 +1,120 @@
+﻿body, a, div, input, button {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    background: #ccc;
+}
+
+#todo-wrapper {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: skyblue;
+}
+
+form {
+    position: relative;
+}
+
+button {
+    width: 32px;
+    height: 32px;
+    border: none;
+    border-radius: 15px;
+}
+
+input[type="text"] {
+    padding: 7px;
+    font-size: 18px;
+    color: #626965;
+    outline-color: #1a8dc3;
+}
+
+input[type="submit"] {
+    position: absolute;
+    top: 4px;
+    left: 390px;
+    width: 32px;
+    height: 32px;
+    border: none;
+    background: url(../images/add.png) no-repeat;
+}
+
+#showAll {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+    height: auto;
+    padding: 5px;
+    color: #1a8dc3;
+    font-size: 16px;
+    border: 2px solid #626965;
+}
+
+#removeAll{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    width: 200px;
+    height: auto;
+    padding: 5px;
+    color: #1a8dc3;
+    font-size: 16px;
+    border: 2px solid #626965;
+}
+
+ul{
+    width: 530px;
+    height: 440px;
+    overflow-y: scroll;
+}
+
+ul li{
+    position: relative;
+    font-size: 22px;
+    font-weight: 700;
+    color: #626965;
+    height: auto;
+    margin-top: 15px;
+}
+
+.deleteIcon {
+    background: url(../images/delete.png) no-repeat;
+    position: absolute;
+    top: 0;
+    right: 50px;
+}
+
+.doneIcon {
+    background: url(../images/done.png) no-repeat;
+    position: absolute;
+    top: -2px;
+    right: 10px;
+}
+
+#legend {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+#legend > img {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}

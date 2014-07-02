@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateASliderControl", "CreateASliderControl\CreateASliderControl.csproj", "{D31F3B10-38D2-481D-A909-49138FE79988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalityToInsertDOMElement", "FunctionalityToInsertDOMElement\FunctionalityToInsertDOMElement.csproj", "{3B3A70EE-D9AF-4A94-97DF-3B30176BEF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableOfStudents", "TableOfStudents\TableOfStudents.csproj", "{610590DD-2D51-4949-99D9-91FB766A2F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeBackgroundColor", "ChangeBackgroundColor\ChangeBackgroundColor.csproj", "{77BF3694-D65D-4878-9E67-21E2A632167A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D31F3B10-38D2-481D-A909-49138FE79988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31F3B10-38D2-481D-A909-49138FE79988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31F3B10-38D2-481D-A909-49138FE79988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31F3B10-38D2-481D-A909-49138FE79988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3A70EE-D9AF-4A94-97DF-3B30176BEF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A70EE-D9AF-4A94-97DF-3B30176BEF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A70EE-D9AF-4A94-97DF-3B30176BEF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A70EE-D9AF-4A94-97DF-3B30176BEF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610590DD-2D51-4949-99D9-91FB766A2F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610590DD-2D51-4949-99D9-91FB766A2F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610590DD-2D51-4949-99D9-91FB766A2F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610590DD-2D51-4949-99D9-91FB766A2F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BF3694-D65D-4878-9E67-21E2A632167A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF3694-D65D-4878-9E67-21E2A632167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BF3694-D65D-4878-9E67-21E2A632167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BF3694-D65D-4878-9E67-21E2A632167A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

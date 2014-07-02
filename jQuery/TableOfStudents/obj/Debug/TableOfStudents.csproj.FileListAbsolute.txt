@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\bin\TableOfStudents.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\bin\TableOfStudents.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\bin\TableOfStudents.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\obj\Debug\TableOfStudents.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\obj\Debug\TableOfStudents.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\TableOfStudents\obj\Debug\TableOfStudents.pdb

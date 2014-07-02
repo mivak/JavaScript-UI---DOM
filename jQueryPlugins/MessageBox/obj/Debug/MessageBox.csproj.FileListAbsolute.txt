@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\bin\MessageBox.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\bin\MessageBox.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\bin\MessageBox.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\obj\Debug\MessageBox.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\obj\Debug\MessageBox.pdb

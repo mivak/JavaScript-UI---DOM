@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\bin\Telerik.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\bin\Telerik.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\bin\Telerik.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\obj\Debug\Telerik.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\obj\Debug\Telerik.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\Telerik\obj\Debug\Telerik.pdb

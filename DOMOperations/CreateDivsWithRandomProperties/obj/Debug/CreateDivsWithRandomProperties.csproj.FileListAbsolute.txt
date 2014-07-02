@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\bin\CreateDivsWithRandomProperties.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\bin\CreateDivsWithRandomProperties.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\bin\CreateDivsWithRandomProperties.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\obj\Debug\CreateDivsWithRandomProperties.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\obj\Debug\CreateDivsWithRandomProperties.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\CreateDivsWithRandomProperties\obj\Debug\CreateDivsWithRandomProperties.pdb

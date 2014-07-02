@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\bin\DropdownListPlugin.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\bin\DropdownListPlugin.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\bin\DropdownListPlugin.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\obj\Debug\DropdownListPlugin.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\obj\Debug\DropdownListPlugin.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\DropdownListPlugin\obj\Debug\DropdownListPlugin.pdb

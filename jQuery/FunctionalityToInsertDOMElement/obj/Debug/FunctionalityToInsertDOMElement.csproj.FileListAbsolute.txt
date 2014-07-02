@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\FunctionalityToInsertDOMElement\bin\FunctionalityToInsertDOMElement.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\FunctionalityToInsertDOMElement\bin\FunctionalityToInsertDOMElement.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\FunctionalityToInsertDOMElement\bin\FunctionalityToInsertDOMElement.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\FunctionalityToInsertDOMElement\obj\Debug\FunctionalityToInsertDOMElement.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\FunctionalityToInsertDOMElement\obj\Debug\FunctionalityToInsertDOMElement.pdb

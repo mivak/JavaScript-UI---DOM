@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\bin\ChangeBackgroundColor.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\bin\ChangeBackgroundColor.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\bin\ChangeBackgroundColor.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\obj\Debug\ChangeBackgroundColor.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\obj\Debug\ChangeBackgroundColor.dll
+C:\TelerikAcademy\JavaScript UI & DOM\jQuery\jQuery\ChangeBackgroundColor\obj\Debug\ChangeBackgroundColor.pdb

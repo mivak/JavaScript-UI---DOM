@@ -1,0 +1,6 @@
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\bin\GetValueOfInput.dll.config
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\bin\GetValueOfInput.dll
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\bin\GetValueOfInput.pdb
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\obj\Debug\GetValueOfInput.dll
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\obj\Debug\GetValueOfInput.pdb
+C:\Users\Misho\Desktop\DOM\GetValueOfInput\obj\Debug\GetValueOfInput.csprojResolveAssemblyReference.cache

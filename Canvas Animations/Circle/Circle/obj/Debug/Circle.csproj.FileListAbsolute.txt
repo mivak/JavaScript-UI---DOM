@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\bin\Circle.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\bin\Circle.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\bin\Circle.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\obj\Debug\Circle.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\Circle\Circle\obj\Debug\Circle.pdb

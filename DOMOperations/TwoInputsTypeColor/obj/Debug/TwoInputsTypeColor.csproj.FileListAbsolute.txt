@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\bin\TwoInputsTypeColor.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\bin\TwoInputsTypeColor.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\bin\TwoInputsTypeColor.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\obj\Debug\TwoInputsTypeColor.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\obj\Debug\TwoInputsTypeColor.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\TwoInputsTypeColor\obj\Debug\TwoInputsTypeColor.pdb

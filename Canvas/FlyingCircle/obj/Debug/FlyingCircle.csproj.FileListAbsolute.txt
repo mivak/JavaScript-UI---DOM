@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\FlyingCircle\bin\FlyingCircle.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\FlyingCircle\bin\FlyingCircle.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\FlyingCircle\bin\FlyingCircle.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\FlyingCircle\obj\Debug\FlyingCircle.dll
+C:\TelerikAcademy\JavaScript UI & DOM\Canvas\Canvas\FlyingCircle\obj\Debug\FlyingCircle.pdb

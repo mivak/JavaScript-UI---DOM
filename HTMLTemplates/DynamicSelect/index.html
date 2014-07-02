@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dynamic select</title>
+</head>
+<body>
+    <div id="container">You can select a number from 1 to 7</div>
+    <script type="text/x-handlebars-template" id="post-template">
+        <select>
+            {{#each items}}
+            <option value="{{value}}">{{text}}</option>
+            {{/each}}
+        </select>
+    </script>
+    
+    <script src="scripts/dynamicSelect.js"></script>
+    <script src="scripts/handlebars.min.js"></script>
+</body>
+</html>

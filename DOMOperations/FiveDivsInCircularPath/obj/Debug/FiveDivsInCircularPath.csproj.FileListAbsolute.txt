@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\bin\FiveDivsInCircularPath.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\bin\FiveDivsInCircularPath.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\bin\FiveDivsInCircularPath.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\obj\Debug\FiveDivsInCircularPath.dll
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\obj\Debug\FiveDivsInCircularPath.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\DOM Operations\DOMOperations\FiveDivsInCircularPath\obj\Debug\FiveDivsInCircularPath.csprojResolveAssemblyReference.cache

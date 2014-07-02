@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDivsWithRandomProperties", "CreateDivsWithRandomProperties\CreateDivsWithRandomProperties.csproj", "{F1787828-8151-47E7-B4AD-A5C9378856DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveDivsInCircularPath", "FiveDivsInCircularPath\FiveDivsInCircularPath.csproj", "{4AB7350B-AE52-4C21-9500-4765FA1F350F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoInputsTypeColor", "TwoInputsTypeColor\TwoInputsTypeColor.csproj", "{952A983E-8C91-4574-A710-565F717F81AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagCloud", "TagCloud\TagCloud.csproj", "{EF878852-1C3E-474C-AD5A-040474934A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1787828-8151-47E7-B4AD-A5C9378856DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1787828-8151-47E7-B4AD-A5C9378856DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1787828-8151-47E7-B4AD-A5C9378856DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1787828-8151-47E7-B4AD-A5C9378856DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB7350B-AE52-4C21-9500-4765FA1F350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB7350B-AE52-4C21-9500-4765FA1F350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB7350B-AE52-4C21-9500-4765FA1F350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB7350B-AE52-4C21-9500-4765FA1F350F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952A983E-8C91-4574-A710-565F717F81AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952A983E-8C91-4574-A710-565F717F81AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952A983E-8C91-4574-A710-565F717F81AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952A983E-8C91-4574-A710-565F717F81AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF878852-1C3E-474C-AD5A-040474934A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF878852-1C3E-474C-AD5A-040474934A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF878852-1C3E-474C-AD5A-040474934A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF878852-1C3E-474C-AD5A-040474934A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

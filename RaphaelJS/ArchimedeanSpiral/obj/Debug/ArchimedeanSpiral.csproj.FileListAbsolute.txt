@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\bin\ArchimedeanSpiral.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\bin\ArchimedeanSpiral.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\bin\ArchimedeanSpiral.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\obj\Debug\ArchimedeanSpiral.dll
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\obj\Debug\ArchimedeanSpiral.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\RaphaelJS\RaphaelJS\ArchimedeanSpiral\obj\Debug\ArchimedeanSpiral.csprojResolveAssemblyReference.cache

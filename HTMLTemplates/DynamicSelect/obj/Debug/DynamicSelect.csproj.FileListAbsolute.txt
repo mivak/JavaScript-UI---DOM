@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\DynamicSelect\bin\DynamicSelect.dll.config
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\DynamicSelect\bin\DynamicSelect.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\DynamicSelect\bin\DynamicSelect.pdb
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\DynamicSelect\obj\Debug\DynamicSelect.dll
+C:\TelerikAcademy\JavaScript UI & DOM\HTML Templates\HTMLTemplates\DynamicSelect\obj\Debug\DynamicSelect.pdb
