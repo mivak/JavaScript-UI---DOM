@@ -3,3 +3,8 @@ C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\bi
 C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\bin\MessageBox.pdb
 C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\obj\Debug\MessageBox.dll
 C:\TelerikAcademy\JavaScript UI & DOM\jQuery Plugins\jQueryPlugins\MessageBox\obj\Debug\MessageBox.pdb
+C:\GitHub\JavaScript UI & DOM\jQueryPlugins\MessageBox\bin\MessageBox.dll.config
+C:\GitHub\JavaScript UI & DOM\jQueryPlugins\MessageBox\bin\MessageBox.dll
+C:\GitHub\JavaScript UI & DOM\jQueryPlugins\MessageBox\bin\MessageBox.pdb
+C:\GitHub\JavaScript UI & DOM\jQueryPlugins\MessageBox\obj\Debug\MessageBox.dll
+C:\GitHub\JavaScript UI & DOM\jQueryPlugins\MessageBox\obj\Debug\MessageBox.pdb

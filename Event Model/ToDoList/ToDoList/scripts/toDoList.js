@@ -5,14 +5,13 @@
         if (itemData === "") {
             return;
         }
+
         var newItem = document.createElement("li");
         newItem.innerHTML = itemData;
 
         var deleteIcon = document.createElement('button');
         deleteIcon.className = "deleteIcon";
-        deleteIcon.addEventListener(
-        "click",
-        function (ev) {
+        deleteIcon.addEventListener("click", function (ev) {
             ev.preventDefault();
             deleteItem(ev.target);
         }, false);
@@ -48,7 +47,6 @@
                 todos[i].classList.remove("hidden");
                 todos[i].classList.add("show");
             }
-
         }
     }
 
